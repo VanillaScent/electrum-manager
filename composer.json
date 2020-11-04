@@ -1,0 +1,9 @@
+{
+    "name": "vanillascent/electrum-manager",
+    "description": "A simple to use Electrum RPC controller!",
+    "type": "metapackage",
+    "require": {
+        "php": "^7.2|^8.0",
+        "psr/log": "^1.1"
+    }
+}
